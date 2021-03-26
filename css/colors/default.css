@@ -1,0 +1,170 @@
+.menu-top .active > a,
+.menu-top .active > a:focus,
+.menu-top .active > a:hover {
+    color: #cb3584;
+}
+.menu-top li a:hover {
+    color: #cb3584;
+}
+.menu-top #free-btn {
+    color: #cb3584;
+    border-bottom: 2px solid #2c2259;
+}
+.sticky {
+    background: #1A1241;
+}
+.slider {
+    background: #1F1547;
+}
+.slider:before {
+    background: #1A1241;
+}
+.bttn {
+    background: #ce3683;
+    background: -moz-linear-gradient(top, #ce3683 0%, #962398 59%, #962398 100%);
+    background: -webkit-linear-gradient(top, #ce3683 0%, #962398 59%, #962398 100%);
+    background: linear-gradient(to bottom, #ce3683 0%, #962398 59%, #962398 100%);
+}
+.bttn:hover {
+    border: 1px solid #962398;
+}
+.slide-right .page-scroll:hover {
+    color: #cb3584;
+    border: 1px solid #cb3584;
+}
+.about-top h5,
+.feature-top h5,
+.special-top h5,
+.video-top h5,
+.screen-top h5,
+.client-top h5,
+.prices-top h5 {
+    color: #CE3683;
+}
+.about-text i:hover {
+    background: #1F1547;
+}
+.about-slide .owl-nav {
+    background: #1E1647;
+}
+.feature-left-icon .fa {
+    background: #1F1547;
+}
+.feature-left:hover .fa {
+    background: #c73387;
+    background: -moz-linear-gradient(top, #c73387 0%, #942399 75%, #942399 100%);
+    background: -webkit-linear-gradient(top, #c73387 0%, #942399 75%, #942399 100%);
+    background: linear-gradient(to bottom, #c73387 0%, #942399 75%, #942399 100%);
+}
+.feature-bottom .panel-heading.active,
+.feature-bottom .panel-heading:focus,
+.feature-bottom .panel-heading:hover {
+    background-color: #1F1547;
+}
+.special {
+    background: #1F1647;
+}
+.video-bottom .nav-tabs > li.active > a,
+.video-bottom .nav-tabs > li.active > a:focus,
+.video-bottom .nav-tabs > li.active > a:hover,
+.video-bottom .nav-tabs > li > a:hover {
+    background-color: #1F1547;
+}
+.video-bottom .nav-tabs > li > a {
+    color: #1E1647;
+}
+.screen-bottom-slide-overlay {
+    background: rgba(73, 65, 130, 0.8);
+}
+.screen-bottom .owl-dot.active {
+    border: 2px solid #CE3585;
+}
+.testimonial {
+    background: #1F1647;
+}
+.testimonial-content-text i:last-child {
+    color: #756F95;
+}
+.testimonial-content-icon i {
+    color: #362D61;
+}
+.testimonial-content-text p {
+    color: #756F94;
+}
+.testimonial-right {
+    background: #281E55;
+}
+.carousel-indica li {
+    background: #352C61;
+}
+.prices-bottom {
+    background: #1F1547;
+}
+.prices-bottom-btn .prices-bttn {
+    border: 1px solid #962398;
+}
+.prices-bottom .prices-bttn:hover {
+    border: 1px solid #962398;
+}
+.footer-top-trial a:hover {
+    color: #CB357B;
+}
+.footer-top-overlay {
+    background: rgb(49, 43, 79);
+    background: -moz-linear-gradient(top, rgba(49, 43, 79, 0.7) 0%, rgba(43, 37, 73, 0.9) 29%, rgba(19, 10, 53, 1) 69%, rgba(18, 11, 55, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(49, 43, 79, 0.7) 0%, rgba(43, 37, 73, 0.9) 29%, rgba(19, 10, 53, 1) 69%, rgba(18, 11, 55, 1) 100%);
+    background: linear-gradient(to bottom, rgba(49, 43, 79, 0.7) 0%, rgba(43, 37, 73, 0.9) 29%, rgba(19, 10, 53, 1) 69%, rgba(18, 11, 55, 1) 100%);
+}
+.footer {
+    background: #120B37;
+}
+.footer-content {
+    border-top: 1px solid #1F174A;
+}
+.footer-middle .form-control {
+    background: #2C2358;
+}
+.scrollToTop {
+    border: 2px solid #cb3584;
+    background: #241668;
+}
+.scrollToTop .scroll-i {
+    color: #cb3584;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #cb3584;
+}
+.blog-menu ul li.activv a {
+    color: #cb3584;
+}
+.latest-blog-post h4 a {
+    color: #cb3584;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #cb3584;
+}
+.blog-side-search i {
+    color: #cb3584;
+}
+.blog-details-para p.activv {
+    color: #cb3584;
+}
+.blog-details-like ul li a i {
+    color: #cb3584;
+}
+.blog-comment-txt .reply span {
+    color: #cb3584;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #cb3584;
+}
+.single-form button:hover {
+    color: #cb3584;
+}
+.four04-content h2 {
+    color: #cb3584;
+}
+.four04-content a:hover {
+    color: #cb3584;
+}

@@ -1,0 +1,188 @@
+.menu-top .active > a,
+.menu-top .active > a:focus,
+.menu-top .active > a:hover {
+    color: #1A84CE;
+}
+.menu-top li a:hover {
+    color: #1A84CE;
+}
+.menu-top #free-btn {
+    color: #1A84CE;
+    border-bottom: 2px solid #052848;
+}
+.sticky {
+    background: #02223F;
+}
+.slider {
+    background: #042747;
+}
+.slider:before {
+    background: #0C3257;
+}
+.bttn {
+    background: rgb(35, 151, 234);
+    background: -moz-linear-gradient(top, rgba(35, 151, 234, 1) 1%, rgba(25, 128, 196, 1) 59%, rgba(12, 98, 157, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(35, 151, 234, 1) 1%, rgba(25, 128, 196, 1) 59%, rgba(12, 98, 157, 1) 100%);
+    background: linear-gradient(to bottom, rgba(35, 151, 234, 1) 1%, rgba(25, 128, 196, 1) 59%, rgba(12, 98, 157, 1) 100%);
+}
+.bttn:hover {
+    border: 1px solid #1981CA;
+}
+.slide-right .page-scroll:hover {
+    color: #1A84CE;
+    border: 1px solid #1A84CE;
+}
+.about-top h5,
+.feature-top h5,
+.special-top h5,
+.video-top h5,
+.screen-top h5,
+.client-top h5,
+.prices-top h5 {
+    color: #1A84CE;
+}
+.about-text i:hover {
+    background: #02223F;
+}
+.about-slide .owl-nav {
+    background: #02223F;
+}
+.feature-left-icon .fa {
+    background: #02223F;
+}
+.feature-left:hover .fa {
+    background: rgb(93, 159, 204);
+    background: -moz-linear-gradient(top, rgba(93, 159, 204, 1) 1%, rgba(26, 132, 206, 1) 59%, rgba(0, 122, 204, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(93, 159, 204, 1) 1%, rgba(26, 132, 206, 1) 59%, rgba(0, 122, 204, 1) 100%);
+    background: linear-gradient(to bottom, rgba(93, 159, 204, 1) 1%, rgba(26, 132, 206, 1) 59%, rgba(0, 122, 204, 1) 100%);
+}
+.feature-bottom .panel-heading.active,
+.feature-bottom .panel-heading:focus,
+.feature-bottom .panel-heading:hover {
+    background-color: #02223F;
+}
+.special {
+    background: #02294C;
+}
+.video-bottom .nav-tabs > li.active > a,
+.video-bottom .nav-tabs > li.active > a:focus,
+.video-bottom .nav-tabs > li.active > a:hover,
+.video-bottom .nav-tabs > li > a:hover {
+    background-color: #063560;
+}
+.video-bottom .nav-tabs > li > a {
+    color: #063560;
+}
+.screen-bottom-slide-overlay {
+    background: rgba(6, 53, 96, 0.8);
+}
+.screen-bottom .owl-dot.active {
+    border: 2px solid #063560;
+}
+.testimonial {
+    background: #02294C;
+}
+.testimonial-content-text i:last-child {
+    color: #074C8C;
+}
+.testimonial-content-icon i {
+    color: #074C8C;
+}
+.testimonial-content-text p {
+    color: #074C8C;
+}
+.testimonial-right {
+    background: #074C8C;
+}
+.carousel-indica li {
+    background: #074C8C;
+}
+.prices-bottom {
+    background: #02223F;
+}
+.prices-bottom-btn .prices-bttn {
+    border: 1px solid #1981CA;
+}
+.prices-bottom .prices-bttn:hover {
+    border: 1px solid #1981CA;
+}
+.footer-top-trial a:hover {
+    color: #1981CA;
+}
+.footer-top-overlay {
+    background: rgb(36, 89, 135);
+    /* Old browsers */
+    
+    background: -moz-linear-gradient(top, rgba(36, 89, 135, 0.7) 0%, rgba(0, 72, 135, 0.9) 29%, rgba(17, 46, 61, 1) 69%, rgba(2, 34, 63, 1) 100%);
+    /* FF3.6-15 */
+    
+    background: -webkit-linear-gradient(top, rgba(36, 89, 135, 0.7) 0%, rgba(0, 72, 135, 0.9) 29%, rgba(17, 46, 61, 1) 69%, rgba(2, 34, 63, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    
+    background: linear-gradient(to bottom, rgba(36, 89, 135, 0.7) 0%, rgba(0, 72, 135, 0.9) 29%, rgba(17, 46, 61, 1) 69%, rgba(2, 34, 63, 1) 100%);
+}
+.footer {
+    background: #02223F;
+}
+.footer-content {
+    border-top: 1px solid #014F96;
+}
+.footer-top-trial p,
+.footer-top-trial a {
+    color: #0156A3;
+}
+.footer-middle p,
+.footer p,
+.footer ul li a {
+    color: #0156A3;
+}
+.footer-middle button {
+    background: #0862B5;
+}
+.footer-middle .form-control {
+    background: #043868
+}
+.scrollToTop {
+    border: 2px solid #1A84CE;
+    background: #043868;
+}
+.scrollToTop .scroll-i {
+    color: #1A84CE;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #1A84CE;
+}
+.blog-menu ul li.activv a {
+    color: #1A84CE;
+}
+.latest-blog-post h4 a {
+    color: #1A84CE;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #1A84CE;
+}
+.blog-side-search i {
+    color: #1A84CE;
+}
+.blog-details-para p.activv {
+    color: #1A84CE;
+}
+.blog-details-like ul li a i {
+    color: #1A84CE;
+}
+.blog-comment-txt .reply span {
+    color: #1A84CE;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #1A84CE;
+}
+.single-form button:hover {
+    color: #1A84CE;
+}
+.four04-content h2 {
+    color: #1A84CE;
+}
+.four04-content a:hover {
+    color: #1A84CE;
+}

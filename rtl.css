@@ -1,0 +1,63 @@
+/*
+Theme Name: AppPrep1
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.slide-right .page-scroll {
+	float:left;
+}
+.slide-right .page-scroll .fa {
+	margin-left: 0%;
+	margin-right: 33%;
+}
+.about-slider,.screen ,.client-bottom {
+	direction: ltr;
+}
+.panel-heading::before{
+	right: auto;
+	left: 5%;
+}
+.video-bottom .video-tab-bottom p i {
+	padding-right: 0px;
+	padding-left: 5px;
+}
+.carousel-indica li {
+	float: right;
+}
+.blog-head {
+	text-align: left;
+}
+.latest-blog-post {
+	float: left;
+}
+.latest-blog-info {
+	clear: both;
+}
+.blog-side-search input {
+	text-align: left;
+	margin-right: 5%;
+}
+.blog-comment-content {
+	margin-left: 0px;
+}
+.blog-details-like ul li a i {
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.blog-details-date ul li a i {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.single-form {
+	text-align: left;
+}

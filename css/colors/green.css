@@ -1,0 +1,182 @@
+.menu-top .active > a,
+.menu-top .active > a:focus,
+.menu-top .active > a:hover {
+    color: #4DB41D;
+}
+.menu-top li a:hover {
+    color: #4DB41D;
+}
+.menu-top #free-btn {
+    color: #4DB41D;
+    border-bottom: 2px solid #262626;
+}
+.sticky {
+    background: #191919;
+}
+.slider {
+    background: #191919;
+}
+.slider:before {
+    background: #262626;
+}
+.bttn {
+    background: #53BC22;
+    background: -moz-linear-gradient(top, #53BC22 0%, #439E12 59%, #338202 100%);
+    background: -webkit-linear-gradient(top, #53BC22 0%, #439E12 59%, #338202 100%);
+    background: linear-gradient(to bottom, #53BC22 0%, #439E12 59%, #338202 100%);
+}
+.bttn:hover {
+    border: 1px solid #338202;
+}
+.slide-right .page-scroll:hover {
+    color: #4DB41D;
+    border: 1px solid #4DB41D;
+}
+.about-top h5,
+.feature-top h5,
+.special-top h5,
+.video-top h5,
+.screen-top h5,
+.client-top h5,
+.prices-top h5 {
+    color: #4DB41D;
+}
+.about-text i:hover {
+    background: #191919;
+}
+.about-slide .owl-nav {
+    background: #191919;
+}
+.feature-left-icon .fa {
+    background: #191919;
+}
+.feature-left:hover .fa {
+    background: #53BC22;
+    background: -moz-linear-gradient(top, #53BC22 0%, #439E12 59%, #338202 100%);
+    background: -webkit-linear-gradient(top, #53BC22 0%, #439E12 59%, #338202 100%);
+    background: linear-gradient(to bottom, #53BC22 0%, #439E12 59%, #338202 100%);
+}
+.feature-bottom .panel-heading.active,
+.feature-bottom .panel-heading:focus,
+.feature-bottom .panel-heading:hover {
+    background-color: #191919;
+}
+.special {
+    background: #191919;
+}
+.video-bottom .nav-tabs > li.active > a,
+.video-bottom .nav-tabs > li.active > a:focus,
+.video-bottom .nav-tabs > li.active > a:hover,
+.video-bottom .nav-tabs > li > a:hover {
+    background-color: #191919;
+}
+.video-bottom .nav-tabs > li > a {
+    color: #191919;
+}
+.screen-bottom-slide-overlay {
+    background: rgba(25, 25, 25, 0.8);
+}
+.screen-bottom .owl-dot.active {
+    border: 2px solid #459425;
+}
+.testimonial {
+    background: #191919;
+}
+.testimonial-content-text i:last-child {
+    color: #928D8D;
+}
+.testimonial-content-icon i {
+    color: #928D8D;
+}
+.testimonial-content-text p {
+    color: #928D8D;
+}
+.testimonial-right {
+    background: #383333;
+}
+.carousel-indica li {
+    background: #928D8D;
+}
+.prices-bottom {
+    background: #191919;
+}
+.prices-bottom-btn .prices-bttn {
+    border: 1px solid #4DB41D;
+}
+.prices-bottom .prices-bttn:hover {
+    border: 1px solid #4DB41D;
+}
+.footer-top-trial a:hover {
+    color: #3D930A;
+}
+.footer-top-overlay {
+    background: rgb(117, 117, 117);
+    background: -moz-linear-gradient(top, rgba(117, 117, 117, 0.7) 0%, rgba(86, 86, 86, 0.9) 29%, rgba(48, 48, 48, 1) 69%, rgba(25, 25, 25, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(117, 117, 117, 0.7) 0%, rgba(86, 86, 86, 0.9) 29%, rgba(48, 48, 48, 1) 69%, rgba(25, 25, 25, 1) 100%);
+    background: linear-gradient(to bottom, rgba(117, 117, 117, 0.7) 0%, rgba(86, 86, 86, 0.9) 29%, rgba(48, 48, 48, 1) 69%, rgba(25, 25, 25, 1) 100%);
+}
+.footer {
+    background: #191919;
+}
+.footer-content {
+    border-top: 1px solid #474040;
+}
+.footer-top-trial p,
+.footer-top-trial a {
+    color: #191919;
+}
+.footer-middle p,
+.footer p,
+.footer ul li a {
+    color: #928D8D;
+}
+.footer-middle button {
+    background: #928D8D;
+}
+.footer-middle .form-control {
+    background: #333333;
+}
+.scrollToTop {
+    border: 2px solid #3D930A;
+    background: #2F2727;
+}
+.scrollToTop .scroll-i {
+    color: #3D930A;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #3D930A;
+}
+.blog-menu ul li.activv a {
+    color: #3D930A;
+}
+.latest-blog-post h4 a {
+    color: #3D930A;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #3D930A;
+}
+.blog-side-search i {
+    color: #3D930A;
+}
+.blog-details-para p.activv {
+    color: #3D930A;
+}
+.blog-details-like ul li a i {
+    color: #3D930A;
+}
+.blog-comment-txt .reply span {
+    color: #3D930A;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #3D930A;
+}
+.single-form button:hover {
+    color: #3D930A;
+}
+.four04-content h2 {
+    color: #3D930A;
+}
+.four04-content a:hover {
+    color: #3D930A;
+}

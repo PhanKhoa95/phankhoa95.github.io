@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Welcome - AppPrep1</title>
+		<title>YouTube Video - AppPrep1</title>
 		<!-- favicon.ico -->
 		<link rel="icon" href="images/favicon.ico" />
 		<link rel="apple-touch-icon" href="images/favicon.ico">
@@ -52,11 +52,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				  </button>
-				  <a class="navbar-brand" href="#menu">
+				  <a class="navbar-brand" href="index.html">
 					<img class="nav-logo-left" src="images/nav-logo-left.png" alt=""/>
 					<h3><span>App</span>Prep</h3>
 				  </a>
-				  <!--<a class="navbar-brand" href="#menu">
+				  <!--<a class="navbar-brand" href="index.html">
 					<img src="images/logo.png" alt=""/>
 				  </a>-->
 				</div>
@@ -78,7 +78,8 @@
 			</nav>
 		</header><!-- Menu section end -->
 		<!-- Slider section start -->
-		<section class="slider wow fadeIn" id="slide">
+		<section class="slider slider-bg-fixed bg-image-slider tubular" id="home" data-property="{videoURL:'http://youtu.be/kn-1D5z3-Cs',containment:'#home',autoPlay:true, mute:true, startAt:0, showControls:false, loop:true, opacity:1}">
+			<div class="bg-slide-overlay"></div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-sm-6 text-right">
@@ -841,6 +842,10 @@
 		</div><!-- scrollToTop end -->
 		<!-- jquery main JS -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
+	    <!-- DEVICE.JS -->
+	    <script src="js/device.min.js"></script>
+	    <!-- YTPlayer JS -->
+	    <script src="js/jquery.mb.YTPlayer.min.js"></script>
 		<!-- Bootstrap JS -->
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<!-- owl carousel JS -->
