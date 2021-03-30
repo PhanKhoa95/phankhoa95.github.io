@@ -1,5 +1,6 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 @-webkit-keyframes animateGradient {
     0% {
         background-position: left bottom
@@ -3766,4 +3767,21 @@ body.loaded .preloader {
     }
 }
 
-/*# sourceMappingURL=style.css.map */
+.clients-sec .testimonial__wrapper .client div.testimonial__wrapper {
+    padding: 0;
+}
+
+.clients-sec .testimonial__wrapper .client div.testimonial__wrapper img {
+    width: 100%;
+}
+
+@media (max-width: 475px) {
+    .clients-sec .testimonial__wrapper .client:nth-child(n+3) {
+        margin-top: 35.8rem;
+    }
+
+    .clients-sec .testimonial__wrapper .client .testimonial {
+        height: 26rem;
+    }
+
+    /*# sourceMappingURL=style.css.map */
