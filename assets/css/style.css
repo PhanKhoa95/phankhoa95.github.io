@@ -3800,6 +3800,10 @@ body.loaded .preloader {
     p.paragraph {
     padding: 1rem;
     }
+
+}
+.clients-sec .testimonial__wrapper .client .testimonial p{
+    padding: 0 1rem;
 }
 
 /*# sourceMappingURL=style.css.map

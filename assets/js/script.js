@@ -206,12 +206,12 @@ function animateNumber(finalNumber, duration = 5000, startNumber = 0, callback) 
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  animateNumber(5000000, 30000, 0, function (number) {
+  animateNumber(5901012, 45000, 0, function (number) {
     const formattedNumber = number.toLocaleString()
     document.getElementById('transaction-count').innerText = formattedNumber
   })
   
-  animateNumber(50000, 25000, 0, function (number) {
+  animateNumber(499168, 45000, 0, function (number) {
     const formattedNumber = number.toLocaleString()
     document.getElementById('city-count').innerText = formattedNumber
   })
