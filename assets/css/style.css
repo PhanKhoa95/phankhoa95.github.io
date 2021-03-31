@@ -1353,8 +1353,8 @@ ul {
     transition: all .25s ease;
     -webkit-transition-delay: 1s;
     transition-delay: 1s;
-    background: #ff00ae;
-    background: linear-gradient(45deg, #ff00ae 0%, #9100ff 50%, #ff00ae 100%);
+    background: #3c8aed;
+    background: linear-gradient(45deg, #3c8aed 0%, #0bbafb 50%, #3c8aed 100%);
     background-size: 200% 200%;
     background-position: left bottom;
     -webkit-animation-name: animateGradient;
@@ -3796,6 +3796,9 @@ body.loaded .preloader {
     .video__play>button {
         width: 7.1rem;
         height: 7.1rem;
+    }
+    p.paragraph {
+    padding: 1rem;
     }
 }
 
